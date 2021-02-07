@@ -4,7 +4,7 @@
             "version":"1.0.3"
              }],
     "servers":[
-            {"serverid":0,"servername":"FIBERNET","flag":"br","sshserver":"fibernetpro.ddns.net","sshport":8080,"proxyserver":"fibernetpro.ddns.net","proxyport":8080}
+            {"serverid":0,"servername":"FIBERNET server1","flag":"br","sshserver":"fibernetpro.ddns.net","sshport":8080,"proxyserver":"fibernetpro.ddns.net","proxyport":8080}
             ],
     "payloads":[{
                     "payloadid":0,
