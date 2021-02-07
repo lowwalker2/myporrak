@@ -1,7 +1,7 @@
 {
     "update":[{
             "updateurl":"https://raw.githubusercontent.com/rodrigo12xd/SSHPLUS/master/config.json",
-            "version":"1.0.2"
+            "version":"1.0.3"
              }],
     "servers":[
             {"serverid":0,"servername":"FIBERNET","flag":"BR","sshserver":"fibernetpro.ddns.net","sshport":8080,"proxyserver":"fibernetpro.ddns.net","proxyport":8080},
